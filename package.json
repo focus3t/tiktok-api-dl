@@ -53,6 +53,7 @@
     "@types/node": "^18.15.11",
     "@types/qs": "^6.9.17",
     "typescript": "^5.0.3"
+    "@vercel/node": "^3.0.0"
   },
   "peerDependencies": {
     "canvas": "^3.1.2"
